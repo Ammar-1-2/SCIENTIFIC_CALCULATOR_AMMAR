@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z4TendP5meY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ammma\\Desktop\\VS Code\\scientific_calculator\\scientific_calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ammma\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}

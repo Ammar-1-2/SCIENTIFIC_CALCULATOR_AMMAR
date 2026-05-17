@@ -1,0 +1,14 @@
+C:\Users\Ammma\Desktop\VS Code\scientific_calculator\bin\Debug\net10.0\scientific_calculator.exe
+C:\Users\Ammma\Desktop\VS Code\scientific_calculator\bin\Debug\net10.0\scientific_calculator.deps.json
+C:\Users\Ammma\Desktop\VS Code\scientific_calculator\bin\Debug\net10.0\scientific_calculator.runtimeconfig.json
+C:\Users\Ammma\Desktop\VS Code\scientific_calculator\bin\Debug\net10.0\scientific_calculator.dll
+C:\Users\Ammma\Desktop\VS Code\scientific_calculator\bin\Debug\net10.0\scientific_calculator.pdb
+C:\Users\Ammma\Desktop\VS Code\scientific_calculator\obj\Debug\net10.0\scientific_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ammma\Desktop\VS Code\scientific_calculator\obj\Debug\net10.0\scientific_calculator.AssemblyInfoInputs.cache
+C:\Users\Ammma\Desktop\VS Code\scientific_calculator\obj\Debug\net10.0\scientific_calculator.AssemblyInfo.cs
+C:\Users\Ammma\Desktop\VS Code\scientific_calculator\obj\Debug\net10.0\scientific_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ammma\Desktop\VS Code\scientific_calculator\obj\Debug\net10.0\scientific_calculator.dll
+C:\Users\Ammma\Desktop\VS Code\scientific_calculator\obj\Debug\net10.0\refint\scientific_calculator.dll
+C:\Users\Ammma\Desktop\VS Code\scientific_calculator\obj\Debug\net10.0\scientific_calculator.pdb
+C:\Users\Ammma\Desktop\VS Code\scientific_calculator\obj\Debug\net10.0\scientific_calculator.genruntimeconfig.cache
+C:\Users\Ammma\Desktop\VS Code\scientific_calculator\obj\Debug\net10.0\ref\scientific_calculator.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "scientific_calculator": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
