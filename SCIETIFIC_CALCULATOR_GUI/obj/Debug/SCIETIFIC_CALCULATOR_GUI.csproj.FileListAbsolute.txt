@@ -1,0 +1,10 @@
+C:\Users\Ammma\Desktop\VS Code\SCIETIFIC_CALCULATOR_GUI\bin\Debug\SCIETIFIC_CALCULATOR_GUI.exe.config
+C:\Users\Ammma\Desktop\VS Code\SCIETIFIC_CALCULATOR_GUI\bin\Debug\SCIETIFIC_CALCULATOR_GUI.exe
+C:\Users\Ammma\Desktop\VS Code\SCIETIFIC_CALCULATOR_GUI\bin\Debug\SCIETIFIC_CALCULATOR_GUI.pdb
+C:\Users\Ammma\Desktop\VS Code\SCIETIFIC_CALCULATOR_GUI\obj\Debug\SCIETIFIC_CALCULATOR_GUI.csproj.AssemblyReference.cache
+C:\Users\Ammma\Desktop\VS Code\SCIETIFIC_CALCULATOR_GUI\obj\Debug\SCIETIFIC_CALCULATOR_GUI.Form1.resources
+C:\Users\Ammma\Desktop\VS Code\SCIETIFIC_CALCULATOR_GUI\obj\Debug\SCIETIFIC_CALCULATOR_GUI.Properties.Resources.resources
+C:\Users\Ammma\Desktop\VS Code\SCIETIFIC_CALCULATOR_GUI\obj\Debug\SCIETIFIC_CALCULATOR_GUI.csproj.GenerateResource.cache
+C:\Users\Ammma\Desktop\VS Code\SCIETIFIC_CALCULATOR_GUI\obj\Debug\SCIETIFIC_CALCULATOR_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Ammma\Desktop\VS Code\SCIETIFIC_CALCULATOR_GUI\obj\Debug\SCIETIFIC_CALCULATOR_GUI.exe
+C:\Users\Ammma\Desktop\VS Code\SCIETIFIC_CALCULATOR_GUI\obj\Debug\SCIETIFIC_CALCULATOR_GUI.pdb
